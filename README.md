@@ -1,4 +1,4 @@
-Perform network randomization from an edgelist file using `nx.double_edge_swap()`. For information on the edge swap algorithm see [NetworkX](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.swap.double_edge_swap.html) documentation. Code derived from [Network_Evaluation_Tools](https://github.com/sarah-n-wright/Network_Evaluation_Tools/tree/master/neteval).
+Perform network randomization from a tab separated edgelist file using `nx.double_edge_swap()`. For information on the edge swap algorithm see [NetworkX](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.swap.double_edge_swap.html) documentation. Code derived from [Network_Evaluation_Tools](https://github.com/sarah-n-wright/Network_Evaluation_Tools/tree/master/neteval).
 
 ## Requires:
 * `networkx`
